@@ -5,4 +5,6 @@ b=3
 
 c=a*b
 
-print(d)
+print(c)
+
+#last line of code is modified
