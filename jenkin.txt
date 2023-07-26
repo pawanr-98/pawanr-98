@@ -1,5 +1,16 @@
 this is test
 
+<<<<<<< HEAD
 Dhandhania infotech
 
 
+=======
+a=2
+b=3
+
+c=a*b
+
+print(c)
+
+#last line of code is modified
+>>>>>>> day
