@@ -1,10 +1,7 @@
-this is test
-
-<<<<<<< HEAD
-Dhandhania infotech
 
 
-=======
+
+
 a=2
 b=3
 
